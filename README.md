@@ -1,5 +1,12 @@
 ![FreescaleFRDM-KL46Z-big-01](https://github.com/user-attachments/assets/39a443ae-7f9d-456f-af68-ca52b817b873)<br>
 
+- [1. Introduction](#1-introduction)
+- [2. Features and Functionality](#2-features-and-functionality)
+- [3. Document](#3-document)
+- [4. Installation and Run](#4-installation-and-run)
+- [5. Notes](#5-notes)
+- [6. Authors](#6-authors)
+- [7. License](#7-license)
 
 
 ## 1. Introduction
